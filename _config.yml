@@ -1,7 +1,7 @@
 # Site settings
 title: rialitybytes.art
-subtitle: on a quest to follow my curiousity
-email: youremailaddress@gmail.com
+subtitle: on a quest to follow my curiosity
+email: rialitybytes@gmail.com
 description: an online home for the words and images that float around my brain
 baseurl: "/rialitybytes.art" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
